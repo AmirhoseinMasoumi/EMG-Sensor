@@ -26,3 +26,15 @@ This sensor comes with everything you need to start sensing muscle activity with
 - Electrode Connector: JACKA3.5
 - Operating Temperature: 0～50℃
 - Size: 37mm*21mm (0.82inch*1.47inch)
+
+---
+
+![Tilted](https://github.com/AmirhoseinMasoumi/EMG-Sensor/blob/main/Assets/Images/Tilted.png)
+
+---
+
+![Front](https://github.com/AmirhoseinMasoumi/EMG-Sensor/blob/main/Assets/Images/Front.png)
+
+---
+
+![Layers](https://github.com/AmirhoseinMasoumi/EMG-Sensor/blob/main/Assets/Images/Layers.png)
