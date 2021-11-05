@@ -7,7 +7,7 @@ This sensor will measure the filtered and rectified electrical activity of a mus
 Use your muscles to control any type of actuator (motors, servos, lights ...). Interact with the environment with your own muscles.
 This sensor comes with everything you need to start sensing muscle activity with your Arduino or Raspberry Pi.        
 
-## Features
+### Features
 - Adjustable gain       
 - Small Form Factor       
 - Full integrated    
