@@ -15,7 +15,7 @@ This sensor comes with everything you need to start sensing muscle activity with
 ### Single Supply
 - +2.9V to +5.7V
 - Polarity reversal protection
-- 
+
 ### Two Output Modes
 - EMG Envelope
 - Raw EMG
